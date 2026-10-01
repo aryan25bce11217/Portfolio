@@ -7,10 +7,7 @@ interactive UI features such as a mobile navigation menu, dark/light
 theme toggle, live clock, project filtering, project carousel,
 scroll-based animations, and an email-based contact form.
 
-> **Note:** The supplied project files use placeholder personal
-> information such as `Aryan Kundu`, `aryankundu1105@gmail.com`, and
-> `VIT Bhopal University`. Replace these values with your actual
-> information before deploying the portfolio.
+
 
 ------------------------------------------------------------------------
 
