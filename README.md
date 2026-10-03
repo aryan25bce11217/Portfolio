@@ -32,7 +32,7 @@ portfolio/
 
 Open index.html in any browser. Or, for a local server, run npx serve . in the folder (or use VS Code's Live Server).
 
-## Things worth mentioning
+## Tech Stack
 
 - **Responsive:** built with CSS Grid, Flexbox and `clamp()`, with breakpoints for tablet and mobile. I designed it to avoid horizontal scrolling instead of hiding overflow.
 - **Interactive parts:** the glass skill cards, the project filter and the carousel (arrow keys work too).
