@@ -28,7 +28,9 @@ portfolio/
 ├── assets/images/
 └── README.md
 ```
+## Running it
 
+Open index.html in any browser. Or, for a local server, run npx serve . in the folder (or use VS Code's Live Server).
 
 ## Things worth mentioning
 
